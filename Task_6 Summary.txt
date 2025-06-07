@@ -1,0 +1,39 @@
+**Created 5 passwords with varying complexity:
+
+-> hello123
+-> Hello@123
+->H@ckM3Plz2025
+->S@f3P@ssw0rd!
+->Gz8#K1@!Np$X7b
+
+**Included character types: uppercase, lowercase, numbers, symbols, and lengths from 8 to 14+.
+
+**Tool used: security.org password checker
+
+**Tested on password checkers:
+
+-Weak: hello123 (easily guessable, low complexity)
+-Strong: Gz8#K1@!Np$X7b (high entropy, resistant to brute force)
+
+**Noted tool feedback:
+
+-Suggestions to avoid dictionary words
+-Tips to increase length and complexity
+
+**Learned best practices:
+
+-Use a mix of character types
+-Avoid personal info
+-Prefer 12+ characters
+-Don’t reuse old passwords
+
+**Researched password attacks:
+
+-Brute force: Try all combinations
+-Dictionary: Try known/common words
+-Credential stuffing: Use leaked passwords from data breaches
+
+**Summarized:
+
+-Longer, more complex passwords = more secure
+-Strong passwords reduce risk of being cracked
